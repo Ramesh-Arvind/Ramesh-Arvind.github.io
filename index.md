@@ -31,7 +31,7 @@ title: Home
   </a>
   <a class="card" href="/publications/">
     <h3>Publications</h3>
-    <p class="muted">Two journal papers in 2025, with new work on mechanistic interpretability under review.</p>
+    <p class="muted">Two journal papers in 2025, with an ICML submission currently under review.</p>
   </a>
   <a class="card" href="/blog/">
     <h3>Writing</h3>
