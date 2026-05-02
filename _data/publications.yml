@@ -18,8 +18,8 @@
   venue: "Frontiers in Agronomy"
   year: 2025
   month: March
-  doi: "10.3389/fagro.2025.1547628"
-  url: "https://doi.org/10.3389/fagro.2025.1547628"
+  doi: "10.3389/fagro.2025.1536998"
+  url: "https://doi.org/10.3389/fagro.2025.1536998"
   abstract_short: >-
     An automated pipeline that decomposes time-varying greenhouse reference
     trajectories (temperature, humidity, CO2) into operator-readable

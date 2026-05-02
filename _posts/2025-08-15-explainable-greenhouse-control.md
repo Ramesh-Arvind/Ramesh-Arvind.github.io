@@ -12,7 +12,7 @@ If you have ever stood in front of an industrial controller and asked
 
 Modern greenhouses run on model predictive control. The controller looks a few
 hours into the future, predicts what the plants and the building will do under
-different ventilation, lighting, irrigation, and CO2 choices, and picks the
+different ventilation, lighting, irrigation, and CO₂ choices, and picks the
 sequence of actions that minimizes a cost function. It is genuinely good at
 its job. The trouble is that the cost function does not speak English, and the
 grower does.
@@ -24,7 +24,7 @@ sides.
 
 Before you can explain a controller's actions, you have to understand what it
 was being asked to do. In greenhouses, that "ask" is a reference trajectory
-for temperature, humidity, and CO2 that shifts across the day and the season.
+for temperature, humidity, and CO₂ that shifts across the day and the season.
 These trajectories are not flat. They have ramps, dwell periods, plateaus,
 diurnal cycles, slow seasonal drifts, and the occasional anomaly when someone
 opened a vent at the wrong time.
@@ -42,7 +42,7 @@ only as good as the description of what the controller was being asked to
 track. Without this layer, you end up explaining noise. With it, you can have
 a real conversation about whether the setpoint design itself was reasonable.
 
-[Read the paper.](https://doi.org/10.3389/fagro.2025.1547628)
+[Read the paper.](https://doi.org/10.3389/fagro.2025.1536998)
 
 ## Paper two: let the grower talk to the controller
 

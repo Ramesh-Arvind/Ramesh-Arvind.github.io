@@ -7,9 +7,16 @@ title: Home
     <h1>Ramesh Arvind Naagarajan</h1>
     <p class="lede">
       PhD researcher at the Chair of Automatic Control and System Dynamics,
-      TU Chemnitz. I work on explainable AI for control systems, mechanistic
-      interpretability, and the use of large language models as reasoning
-      interfaces over physical processes.
+      TU Chemnitz. I work on explainable AI for control systems, using
+      large language models as reasoning interfaces over physical processes,
+      with mechanistic interpretability and causal discovery as the
+      load-bearing tools. My current testbed is greenhouse climate control,
+      a setting where the same controller has to satisfy a grower, an
+      agronomist, and an optimiser at the same time.
+    </p>
+    <p class="muted">
+      I am part of the <a href="https://www.tu-chemnitz.de/etit/control/">Automatic Control and System Dynamics</a>
+      group at TU Chemnitz, led by Prof. Dr.-Ing. Stefan Streif.
     </p>
   </div>
   <div class="hero-photo">

@@ -39,7 +39,7 @@ For the full list see the [Publications](/publications/) page or my
 2. **R. A. Naagarajan**, K. K. Sathyanarayanan, N. Bauer, S. Streif.
    *Automated analysis and textual summarization of time-varying references
    in advanced greenhouse climate control.* Frontiers in Agronomy, March 2025.
-   DOI: [10.3389/fagro.2025.1547628](https://doi.org/10.3389/fagro.2025.1547628).
+   DOI: [10.3389/fagro.2025.1536998](https://doi.org/10.3389/fagro.2025.1536998).
 
 ## Research and professional experience
 

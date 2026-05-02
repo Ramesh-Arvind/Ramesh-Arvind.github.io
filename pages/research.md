@@ -31,6 +31,39 @@ toolkit developed for understanding language models, probes, circuit analysis,
 activation patching, transfers to models that operate over physical systems.
 More on this soon.
 
+## Position in the field
+
+A note on what this work is and is not. It is not a foundation-model
+paper, I do not train large models from scratch. It is not a pure
+benchmark paper, I am not chasing leaderboard numbers on standard NLP
+suites. It sits in a narrower place: the use of language models as
+auditable reasoning layers on top of optimisation-based controllers,
+evaluated against control-engineering criteria like faithfulness,
+stability, and operator utility rather than perplexity. The methods
+borrow from interpretability research and from causal inference, but
+the load-bearing layer underneath is still classical optimal control.
+That is the lineage I want the work to be read in.
+
+## Group context
+
+I work in the Chair of Automatic Control and System Dynamics at TU
+Chemnitz, led by Prof. Dr.-Ing. Stefan Streif. The group develops
+control-theoretic methods for nonlinear systems, with strong lines of
+work in optimal and learning-based control, set-based analysis of
+uncertain dynamical systems, and hierarchical, fault-tolerant
+control. Application areas include controlled-environment agriculture
+and circular bioeconomy, hydrogen and fuel-cell systems, carbon
+capture and utilisation, multi-physics systems, AI-driven decision
+support for energy and automation, and the automation of railway
+operations within the Smart Rail Connectivity Campus. Across these
+threads the group keeps the full cycle in view, from system modelling
+through robustness analysis to deployment on real hardware. My own
+thread sits inside the controlled-environment agriculture and
+AI-for-decision-support lines: I bring large language models,
+mechanistic interpretability, and causal discovery into the
+controller stack, and the optimisation and robustness machinery the
+group is known for stays as the load-bearing layer underneath.
+
 ## Why this matters
 
 The gap between a model that performs well on a benchmark and a model that an
