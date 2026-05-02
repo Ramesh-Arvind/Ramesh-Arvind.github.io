@@ -3,8 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-The fastest way to reach me is email:
-**[ramesh.arvind.n@gmail.com](mailto:ramesh.arvind.n@gmail.com)**.
+The fastest way to reach me is email.
+
+- **Academic:** [ramesh.naagarajan@etit.tu-chemnitz.de](mailto:ramesh.naagarajan@etit.tu-chemnitz.de) — for research collaborations, paper discussions, and PhD-related correspondence.
+- **Personal:** [rameshln.96@gmail.com](mailto:rameshln.96@gmail.com) — for everything else.
 
 If you are a PhD student, professor, or industry researcher interested in
 explainable control, mechanistic interpretability, or language interfaces over

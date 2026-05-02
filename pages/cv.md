@@ -89,7 +89,8 @@ English (professional working proficiency) · German (elementary, A2) · Tamil (
 
 ## Contact
 
-[ramesh.arvind.n@gmail.com](mailto:ramesh.arvind.n@gmail.com) ·
+[ramesh.naagarajan@etit.tu-chemnitz.de](mailto:ramesh.naagarajan@etit.tu-chemnitz.de) ·
+[rameshln.96@gmail.com](mailto:rameshln.96@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/ramesh-naagarajan/) ·
 [GitHub](https://github.com/Ramesh-Arvind) ·
 [Google Scholar](https://scholar.google.com/citations?user=-3RuykYAAAAJ) ·
