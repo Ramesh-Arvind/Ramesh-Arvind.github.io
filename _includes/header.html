@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">Ramesh Arvind Naagarajan</a>
+    <nav class="site-nav" aria-label="Primary">
+      {% for item in site.data.nav %}
+        <a href="{{ item.url | relative_url }}"
+           class="{% if page.url == item.url %}is-active{% endif %}">{{ item.title }}</a>
+      {% endfor %}
+      <button id="theme-toggle" aria-label="Toggle dark mode">◐</button>
+    </nav>
+  </div>
+</header>

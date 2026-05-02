@@ -1,0 +1,27 @@
+- key: naagarajan2025greenhouse
+  title: "Enhancing greenhouse management with interpretable AI: a natural-language interface for advanced and optimization-based control"
+  authors: "Ramesh Arvind Naagarajan, Kiran Kumar Sathyanarayanan, Nadja Bauer, Stefan Streif"
+  venue: "Smart Agricultural Technology"
+  year: 2025
+  month: August
+  doi: "10.1016/j.atech.2025.101041"
+  url: "https://doi.org/10.1016/j.atech.2025.101041"
+  abstract_short: >-
+    A natural-language interface that lets greenhouse operators query an MPC
+    controller in plain English and receive interpretable, evidence-grounded
+    answers about why the system acted the way it did.
+  tags: [Explainable AI, Model Predictive Control, Greenhouse, LLM]
+
+- key: naagarajan2025reference
+  title: "Automated analysis and textual summarization of time-varying references in advanced greenhouse climate control"
+  authors: "Ramesh Arvind Naagarajan, Kiran Kumar Sathyanarayanan, Nadja Bauer, Stefan Streif"
+  venue: "Frontiers in Agronomy"
+  year: 2025
+  month: March
+  doi: "10.3389/fagro.2025.1547628"
+  url: "https://doi.org/10.3389/fagro.2025.1547628"
+  abstract_short: >-
+    An automated pipeline that decomposes time-varying greenhouse reference
+    trajectories (temperature, humidity, CO2) into operator-readable
+    components, so domain experts can audit setpoint design at scale.
+  tags: [Time Series, Reference Signals, Controlled-Environment Agriculture]

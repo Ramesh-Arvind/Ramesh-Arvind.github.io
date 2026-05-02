@@ -1,0 +1,35 @@
+title: Ramesh Arvind Naagarajan
+tagline: PhD researcher in explainable AI and model predictive control
+description: >-
+  Personal website of Ramesh Arvind Naagarajan, PhD researcher at the Chair of
+  Automatic Control and System Dynamics, TU Chemnitz, working on explainable AI
+  for control systems, mechanistic interpretability, and large language models.
+url: "https://ramesh-arvind.github.io"
+baseurl: ""
+author:
+  name: Ramesh Arvind Naagarajan
+  email: ramesh.arvind.n@gmail.com
+  affiliation: Chair of Automatic Control and System Dynamics, TU Chemnitz
+  advisor: Prof. Dr.-Ing. Stefan Streif
+  orcid: 0009-0006-1578-6052
+social:
+  github: Ramesh-Arvind
+  linkedin: ramesh-naagarajan
+  scholar: -3RuykYAAAAJ
+  researchgate: Ramesh-Arvind-Naagarajan
+  orcid: 0009-0006-1578-6052
+markdown: kramdown
+permalink: /blog/:year/:title/
+paginate: 6
+paginate_path: "/blog/page:num/"
+include:
+  - pages
+exclude:
+  - README.md
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed

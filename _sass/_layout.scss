@@ -1,0 +1,14 @@
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 1.4rem; }
+.site-main { padding: 3rem 0 5rem; }
+.site-header {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.1rem 0;
+  position: sticky; top: 0; background: var(--paper); z-index: 10;
+}
+.site-header .wrap { display: flex; justify-content: space-between; align-items: center; max-width: var(--max-wide); }
+.brand { text-decoration: none; font-weight: 600; font-size: 1rem; }
+.site-nav a { margin-left: 1.4rem; text-decoration: none; color: var(--muted); font-size: 0.95rem; }
+.site-nav a.is-active, .site-nav a:hover { color: var(--ink); }
+.site-nav button { background: none; border: 0; cursor: pointer; margin-left: 1.4rem; font-size: 1.1rem; color: var(--muted); }
+.site-footer { border-top: 1px solid var(--rule); padding: 2rem 0; }
+.site-footer .wrap { max-width: var(--max-wide); }

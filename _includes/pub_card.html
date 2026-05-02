@@ -1,0 +1,14 @@
+<article class="pub">
+  <h3 class="pub-title">
+    <a href="{{ include.pub.url }}" rel="external">{{ include.pub.title }}</a>
+  </h3>
+  <p class="pub-meta">
+    {{ include.pub.authors }} ·
+    <em>{{ include.pub.venue }}</em>, {{ include.pub.month }} {{ include.pub.year }}
+  </p>
+  <p class="pub-abstract">{{ include.pub.abstract_short }}</p>
+  <p class="pub-tags">
+    {% for t in include.pub.tags %}<span class="tag">{{ t }}</span>{% endfor %}
+    <a class="pub-doi" href="{{ include.pub.url }}">DOI</a>
+  </p>
+</article>
