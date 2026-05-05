@@ -31,7 +31,7 @@ title: Home
   </a>
   <a class="card" href="/publications/">
     <h3>Publications</h3>
-    <p class="muted">Two journal papers in 2025, with an ICML submission currently under review.</p>
+    <p class="muted">Two journal papers in 2025 and a paper accepted at ICML 2026.</p>
   </a>
   <a class="card" href="/blog/">
     <h3>Writing</h3>
