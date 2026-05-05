@@ -15,5 +15,3 @@ The short version of the paper. We propose a framework that builds explanations 
 There is a longer companion post on this blog that walks through the framework section by section, including the failure modes the design was meant to block and the limitations we are still working on. If you came here for the technical version, that one is the right next click.
 
 I will be at ICML in Seoul. If you work on explainable control, causality, mechanistic interpretability of domain-adapted models, or trustworthy AI for safety-critical systems, please come and find me. Conferences are mostly hallway conversations for me, and the hallway is where the most useful arguments tend to happen.
-
-If you found this useful, you can find me on LinkedIn or over email.

@@ -55,5 +55,3 @@ The next step we are excited about is dropping the hand-curation. Mechanistic in
 Where to go from here
 
 If you want the formal version, the paper is at OpenReview, [22XF7II0Hd](https://openreview.net/forum?id=22XF7II0Hd). If you want a sense of where this framework sits in the broader arc of our work, the [August 2025 post on our two greenhouse papers](/blog/2025/explainable-greenhouse-control/) is the right precursor. And if you want to go deeper into the interpretability machinery underneath the next iteration, the [mechanistic interpretability primer](/blog/2025/mechinterp-for-non-nlp/) is the right starting point.
-
-If you found this useful, you can find me on LinkedIn or over email.

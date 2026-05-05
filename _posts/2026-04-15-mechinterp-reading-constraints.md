@@ -39,5 +39,3 @@ What is next
 The next step is to use the binding-constraint feature as a hard signal inside the explainer itself, rather than as a diagnostic on the side. If the language model has a clean internal indicator of when a constraint is binding, we should be able to lift that indicator out and use it as a verification check on the explanations the model produces, in addition to the KKT-based check the optimiser already gives us. Two independent signals on the same property is the kind of redundancy that turns a research prototype into something a practitioner can trust.
 
 I will write that up when we have the numbers. The mechinterp primer remains the right starting point if you are coming to this fresh, and the [paper-walkthrough post](/blog/2026/hierarchical-causal-abduction-walkthrough/) is the right next read if you want to see how this language-model interpretability work fits into the larger framework.
-
-If you found this useful, you can find me on LinkedIn or over email.
