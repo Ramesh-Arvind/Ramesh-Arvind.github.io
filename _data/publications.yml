@@ -1,3 +1,17 @@
+- key: naagarajan2026hca
+  title: "Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control"
+  authors: "Ramesh Arvind Naagarajan, Zühal Wagner, Stefan Streif"
+  venue: "International Conference on Machine Learning (ICML)"
+  year: 2026
+  month: July
+  url: "https://openreview.net/forum?id=22XF7II0Hd"
+  abstract_short: >-
+    A framework that unifies physics knowledge graphs, KKT optimisation
+    evidence, and temporal causal discovery to produce human-interpretable
+    explanations for nonlinear model predictive control across greenhouse
+    climate, building HVAC, and chemical process engineering.
+  tags: [Explainable AI, Model Predictive Control, Causality, ICML]
+
 - key: naagarajan2025greenhouse
   title: "Enhancing greenhouse management with interpretable AI: a natural-language interface for advanced and optimization-based control"
   authors: "Ramesh Arvind Naagarajan, Kiran Kumar Sathyanarayanan, Nadja Bauer, Stefan Streif"
